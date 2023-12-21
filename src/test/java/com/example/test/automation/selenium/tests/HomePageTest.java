@@ -1,7 +1,7 @@
-package com.example.test.automation.tests;
+package com.example.test.automation.selenium.tests;
 
 import com.example.test.automation.annotations.LazyAutowired;
-import com.example.test.automation.pages.HomePage;
+import com.example.test.automation.selenium.pages.HomePage;
 import org.junit.jupiter.api.Test;
 
 import static org.assertj.core.api.Assertions.assertThat;

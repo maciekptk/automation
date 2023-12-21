@@ -1,4 +1,4 @@
-package com.example.test.automation.pages;
+package com.example.test.automation.selenium.pages;
 
 import jakarta.annotation.PostConstruct;
 import org.openqa.selenium.JavascriptExecutor;

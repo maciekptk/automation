@@ -1,4 +1,4 @@
-package com.example.test.automation.pages;
+package com.example.test.automation.selenium.pages;
 
 import com.example.test.automation.annotations.LazyComponent;
 import org.openqa.selenium.WebElement;

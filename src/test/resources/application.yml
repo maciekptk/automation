@@ -2,3 +2,9 @@ selenium:
   default:
     timeout: 30
   url: https://ultimateqa.com/automation
+
+api:
+  base-url: https://jsonplaceholder.typicode.com
+  endpoints:
+    get-post: /posts/{postId}
+    get-all-posts: /posts

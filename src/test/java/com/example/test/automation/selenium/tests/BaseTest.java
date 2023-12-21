@@ -1,14 +1,12 @@
-package com.example.test.automation.tests;
+package com.example.test.automation.selenium.tests;
 
 import com.example.test.automation.annotations.LazyAutowired;
 import com.example.test.automation.annotations.SeleniumTest;
-import lombok.Getter;
 import org.junit.jupiter.api.AfterEach;
 import org.openqa.selenium.WebDriver;
 import org.springframework.context.ApplicationContext;
 
 @SeleniumTest
-@Getter
 public class BaseTest {
 
   @LazyAutowired
