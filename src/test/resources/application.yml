@@ -1,0 +1,4 @@
+selenium:
+  default:
+    timeout: 30
+  url: https://ultimateqa.com/automation
